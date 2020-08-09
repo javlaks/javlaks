@@ -1,9 +1,15 @@
-### Hey, I'm Víctor, from :mexico:
+### Bienvenido/Welcome to my coding space 💻
 
-- 🔭 I’m currently working on ... some React projects for my company
-- 🌱 I’m currently learning ... Tailwind CSS
-- 💬 Ask me about ... Java
-- 📫 How to reach me: ... [Twitter](https://twitter.com/javlaks)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I think Backend is more powerful, but Frontend is more beautiful 😝
-- ⏲ Don't have much time for personal projects 😢
+![header][logo]
+
+[logo]:https://github.com/javlaks/javlaks/blob/master/header.png "Víctor Pineda"
+
+¿Quién soy yo?
+
+My full name is Victor alfonso Pineda Orozco and I'm a  Software Developer
+
+I speak Spanish & English. But I can speak many other tech languages, you know what I mean :)
+
+You can follow me in these digital places -> [Twitter](https://twitter.com/javlaks) | [LinkedIn](https://www.linkedin.com/in/javlaks/?locale=en_US)
+
+Currently, living in Durango, Mx
