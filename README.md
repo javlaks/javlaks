@@ -6,7 +6,7 @@
 
 ¿Quién soy yo?
 
-My full name is Victor alfonso Pineda Orozco and I'm a  Software Developer
+My full name is Victor Alfonso Pineda Orozco and I'm a  Software Developer
 
 I speak Spanish & English. But I can speak many other tech languages, you know what I mean :)
 
